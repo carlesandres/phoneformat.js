@@ -1,0 +1,24 @@
+{
+  "name": "phoneformat",
+  "main": "phoneformat.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/carlesandres/phoneformat.js",
+  "authors": [
+    "carlesandres <carlos.andres.c@gmail.com>"
+  ],
+  "description": "the phoneformat.js file from PhoneFormat.com",
+  "keywords": [
+    "phone",
+    "validation",
+    "parsing"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
